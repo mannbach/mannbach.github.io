@@ -38,3 +38,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # Include gem webrick to solve import error
 # Source: https://github.com/jekyll/jekyll/issues/8523
 gem "webrick"
+
+# Install theme
+gem "jekyll-remote-theme"
