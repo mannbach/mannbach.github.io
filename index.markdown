@@ -5,5 +5,4 @@
 layout: default
 title: "Jan Bachmann"
 ---
-# Markdown Test
 Hello World
