@@ -28,9 +28,10 @@ twitter_username: JanBachmann11
 github_username: mannbach
 
 # Build settings
-theme: minima
+remote_theme: BDHU/minimalist
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
