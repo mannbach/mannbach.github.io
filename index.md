@@ -9,7 +9,7 @@ Hi there! I am a PhD student at [Complexity Science Hub](https://csh.ac.at) in V
 
 In my research I study how inequalities between a minority and majority group can emerge from local collaboration behavior.
 My projects center around temporally evolving collaboration networks, rank dynamics and the occasional fairness concerns of modern network based AI algorithms.
-All of these projects are supervised by [Fariba Karimi](https://www.csh.ac.at/researcher/fariba-karimi/) in close _collaboration_ with the awesome [Network Inequality Group](https://networkinequality.com/) ✌️
+All of these projects are within the awesome [Network Inequality Group](https://networkinequality.com/) lead by [Fariba Karimi](https://www.csh.ac.at/researcher/fariba-karimi/) ✌️
 
 Beyond my research interests, I am very passionate about bouldering, hiking, and the good ol' books and movies.
 Feel free to shoot me a message in case you want to discuss any of my research, or anything else really.
