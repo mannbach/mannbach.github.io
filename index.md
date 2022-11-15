@@ -13,8 +13,9 @@ All of these projects are within the awesome [Network Inequality Group](https://
 
 Beyond my research interests, I am very passionate about bouldering, hiking, and the good ol' books and movies.
 Feel free to shoot me a message in case you want to discuss any of my research, or anything else really.
-## Events
-__2022-05-11__: PhD Proposal Defense at the weekly research seminar at DNDS [🗓](events/22-05-11_proposal_defense.ics) (_please contact [me](mailto:jan@mannbach.de) in case you want to attend_)
+## Events & Talks
+__2022-10-17__: Invited talk at CCS'22 on _Gender Biases in Temporal Motifs of Scientific Collaboration_
+__2022-05-11__: PhD Proposal Defense at the weekly research seminar at DNDS
 
 ## Posts
 {% for post in site.posts %}
