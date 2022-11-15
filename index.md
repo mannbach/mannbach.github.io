@@ -25,5 +25,6 @@ __2022-05-11__: PhD Proposal Defense at the weekly research seminar at DNDS
 {% endfor %}
 
 ## Publications
+- Leonie Neuhäuser, Fariba Karimi, __Jan Bachmann__, Markus Strohmaier, Michael T. Schaub. "Improving the visibility of minorities through network growth interventions" [ArXiv:2208.03263](https://arxiv.org/abs/2208.03263), August 5, 2022.
 - __Jan Bachmann__. "Measuring Temporal Dependencies in Music Listening Behavior across Countries." [Master Thesis](https://drive.google.com/file/d/1fvGMRu4D), August 27, 2020.
-- Schumacher, Tobias, Hinrikus Wolf, Martin Ritzert, Florian Lemmerich, __Jan Bachmann__, Florian Frantzen, Max Klabunde, Martin Grohe, and Markus Strohmaier. “The Effects of Randomness on the Stability of Node Embeddings.” [ArXiv:2005.10039](http://arxiv.org/abs/2005.10039) [Cs, Stat], May 20, 2020.
+- Schumacher, Tobias, Hinrikus Wolf, Martin Ritzert, Florian Lemmerich, __Jan Bachmann__, Florian Frantzen, Max Klabunde, Martin Grohe, and Markus Strohmaier. “The Effects of Randomness on the Stability of Node Embeddings.” [ArXiv:2005.10039](http://arxiv.org/abs/2005.10039), May 20, 2020.
