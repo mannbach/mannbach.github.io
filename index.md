@@ -15,6 +15,7 @@ Beyond my research interests, I am very passionate about bouldering, hiking, and
 Feel free to shoot me a message in case you want to discuss any of my research, or anything else really.
 ## Events & Talks
 __2022-10-17__: Invited talk at CCS'22 on _Gender Biases in Temporal Motifs of Scientific Collaboration_
+
 __2022-05-11__: PhD Proposal Defense at the weekly research seminar at DNDS
 
 ## Posts
