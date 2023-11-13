@@ -2,7 +2,6 @@
 layout: post
 title: DOC-fellowship stipend
 ---
-# DOC Stipend
 Exciting News! I'm honored to share that I've been awarded the ["DOC" stipend](https://stipendien.oeaw.ac.at/en/fellowships/doc) by the Austrian Academy of Sciences, granting me two full years of independent funding. This enables me to pursue my research project titled "Network Inequality and its Effect on the Glass Ceiling Phenomenon."
 
 ![Award ceremony stipend](/images/23-11-08_doc/stipend.jpg)
