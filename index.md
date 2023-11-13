@@ -8,11 +8,12 @@ title: "Jan Bachmann"
 Hi there! I am a PhD student at [Complexity Science Hub](https://csh.ac.at) in Vienna and the [Department of Network and Data Science](https://networkdatascience.ceu.edu/) (DNDS) of [Central European University](https://www.ceu.edu/). Computer Science graduate of [RWTH Aachen University](https://rwth-aachen.de) and [FH Aachen University](https://fh-aachen.de).
 
 In my research I study how inequalities between a minority and majority group can emerge from local collaboration behavior.
-My projects center around temporally evolving collaboration networks, rank dynamics and the occasional fairness concerns of modern network based AI algorithms.
-All of these projects are within the awesome [Network Inequality Group](https://networkinequality.com/) lead by [Fariba Karimi](https://www.csh.ac.at/researcher/fariba-karimi/) ✌️
+My projects center around Gender Inequalities in temporally evolving collaboration networks and associated rank dynamics.
+All of these projects are made possible with awesome collaborators from the [Network Inequality Group](https://networkinequality.com/) lead by [Fariba Karimi](https://www.csh.ac.at/researcher/fariba-karimi/) ✌️
 
-Beyond my research interests, I am very passionate about bouldering, hiking, and the good ol' books and movies.
-Feel free to shoot me a message in case you want to discuss any of my research, or anything else really.
+Beyond my research interests, I am very passionate about bouldering, hiking, books and movies.
+Feel free to drop me a message in case you want to discuss any of my research, or anything else really.
+
 ## Events & Talks
 __2022-10-17__: Invited talk at CCS'22 on _Gender Biases in Temporal Motifs of Scientific Collaboration_
 
