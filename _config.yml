@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     <li>Network Science PhD Student</li>
     <li>Computer Science & Complex Systems</li>
     <li>Network Inequality</li>
-    <li><a href="/2023/11/08/doc-stipend.html">DOC-stipend Awardee</a></li>
+    <li><a href="https://github.com/mannbach/resume/releases/latest/download/resume.pdf">CV</a></li>
   </ul>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mannbach.de" # the base hostname & protocol for your site, e.g. http://example.com
