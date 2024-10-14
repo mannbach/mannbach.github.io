@@ -30,6 +30,8 @@ __2022-05-11__: PhD Proposal Defense at the weekly research seminar at DNDS
 {% endfor %}
 
 ## Publications
-- Leonie Neuhäuser, Fariba Karimi, __Jan Bachmann__, Markus Strohmaier, Michael T. Schaub. "Improving the visibility of minorities through network growth interventions" [ArXiv:2208.03263](https://arxiv.org/abs/2208.03263), August 5, 2022.
-- __Jan Bachmann__. "Measuring Temporal Dependencies in Music Listening Behavior across Countries." [Master Thesis](https://drive.google.com/file/d/1fvGMRu4D), August 27, 2020.
-- Schumacher, Tobias, Hinrikus Wolf, Martin Ritzert, Florian Lemmerich, __Jan Bachmann__, Florian Frantzen, Max Klabunde, Martin Grohe, and Markus Strohmaier. “The Effects of Randomness on the Stability of Node Embeddings.” [ArXiv:2005.10039](http://arxiv.org/abs/2005.10039), May 20, 2020.
+- Zappalà, C., Gallo, L., **Bachmann, J.**, Battiston, F. & Karimi, F. Gender disparities in the dissemination and acquisition of scientific knowledge. [arXiv:2407.17441](https://doi.org/10.48550/arXiv.2407.17441) (2024).
+- She, M., **Bachmann, J.**, Karimi, F. & Peel, L. Gender differences in collaboration and career progression in physics. [arXiv:2408.02482](https://doi.org/10.48550/arXiv.2408.02482) (2024).
+- **Bachmann, J.**, Espín-Noboa, L., Iñiguez, G. & Karimi, F. Cumulative Advantage of Brokerage in Academia. [arXiv:2407.11909](http://arxiv.org/abs/2407.11909) (2024).
+- Neuhäuser, L., Karimi, F., **Bachmann, J.**, Strohmaier, M. & Schaub, M. T. Improving the visibility of minorities through network growth interventions. Commun Phys 6, 1–13 (2023).
+- Schumacher, T. et al. The Effects of Randomness on the Stability of Node Embeddings. [arXiv:2005.10039](http://arxiv.org/abs/2005.10039) (2020).
