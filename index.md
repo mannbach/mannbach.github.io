@@ -5,9 +5,9 @@
 layout: default
 title: "Jan Bachmann"
 ---
-Hi! I am a PhD student at [Complexity Science Hub](https://csh.ac.at) in Vienna and [TU Graz](https://www.tugraz.at/home), and a Computer Science graduate of [RWTH Aachen University](https://rwth-aachen.de) and [FH Aachen **University**](https://fh-aachen.de).
+Hi! I am a PhD student at [Complexity Science Hub](https://csh.ac.at) in Vienna and [TU Graz](https://www.tugraz.at/home), and a Computer Science graduate of [RWTH Aachen University](https://rwth-aachen.de) and [FH Aachen University](https://fh-aachen.de).
 
-In my **research** I study how inequalities between a minority and majority group can emerge from local collaboration behavior, most often centering around gender disparities in scientific collaboration networks.
+In my research I study how inequalities between a minority and majority group can emerge from local collaboration behavior, most often centering around gender disparities in scientific collaboration networks.
 My research projects are made possible by the collaborators from the [Network Inequality Group](https://networkinequality.com/) lead by [Fariba Karimi](https://www.csh.ac.at/researcher/fariba-karimi/).
 
 Beyond my research interests, I am very passionate about bouldering, hiking, books and movies.
