@@ -14,6 +14,8 @@ Beyond my research interests, I am very passionate about bouldering, hiking, boo
 Feel free to drop me a message in case you want to discuss any of my research, or anything else really.
 
 ## Events & Talks
+__2026-04__: Contributed talk at the In_equality Conference on _PATCH_ in Konstanz, Germany
+
 __2025-07__: Poster presentation at IC2S2'25 on _PATCH_ in Norrköping, Sweden
 
 __2024-08__: Guest researcher at the [Visualizing Complexity Science Workshop](https://vis.csh.ac.at/vis-workshop-2024/) presenting _PATCH: Network Inequalities through Preferential Attachment, Triadic Closure and Homophily_ at Complexity Science Hub
