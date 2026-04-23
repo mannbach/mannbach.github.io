@@ -28,12 +28,6 @@ __2022-10__: Contributed talk at CCS'22 on _Gender Biases in Temporal Motifs of 
 
 __2022-05__: PhD Proposal Defense at the weekly research seminar at DNDS
 
-## Posts
-{% for post in site.posts %}
-#### {{ post.date | date: "%Y-%m-%d" }} [{{ post.title }}]({{ post.url }})
-{{ post.excerpt }}
-{% endfor %}
-
 ## Publications
 - **Bachmann, J.**, Martin-Gutierrez, S., Espín-Noboa, L. & Karimi, F. Network Inequality through Preferential Attachment, Triadic Closure, and Homophily. [arXiv:2509.23205](http://arxiv.org/abs/2509.23205) (2025).
 - **Bachmann, J.**, Espín-Noboa, L., Iñiguez, G. & Karimi, F. Cumulative Advantage of Brokerage in Academia. [arXiv:2407.11909](http://arxiv.org/abs/2407.11909). Accepted for publication at [Quantitative Science Studies](https://direct.mit.edu/qss) (2024).
