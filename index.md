@@ -29,8 +29,9 @@ __2022-10__: Contributed talk at CCS'22 on _Gender Biases in Temporal Motifs of 
 __2022-05__: PhD Proposal Defense at the weekly research seminar at DNDS
 
 ## Publications
-- **Bachmann, J.**, Martin-Gutierrez, S., Espín-Noboa, L. & Karimi, F. Network Inequality through Preferential Attachment, Triadic Closure, and Homophily. [arXiv:2509.23205](http://arxiv.org/abs/2509.23205) (2025).
-- **Bachmann, J.**, Espín-Noboa, L., Iñiguez, G. & Karimi, F. Cumulative Advantage of Brokerage in Academia. [arXiv:2407.11909](http://arxiv.org/abs/2407.11909). Accepted for publication at [Quantitative Science Studies](https://direct.mit.edu/qss) (2024).
+- **Bachmann, J.**, Martin-Gutierrez, S., Espín-Noboa, L. & Karimi, F. Network Inequality through Preferential Attachment, Triadic Closure, and Homophily. [Scientific Reports](https://www.nature.com/articles/s41598-026-42911-3) (2026).
+- **Bachmann, J.**, Espín-Noboa, L., Iñiguez, G. & Karimi, F. Cumulative Advantage of Brokerage in Academia. [arXiv:2407.11909](http://arxiv.org/abs/2407.11909). [Quantitative Science Studies](https://doi.org/10.1162/QSS.a.474
+) (2026).
 - She, M., **Bachmann, J.**, Karimi, F. & Peel, L. Gender differences in collaboration and career progression in physics. [Royal Society Open Science](https://doi.org/10.1098/rsos.241536) 12 (2025).
 - Zappalà, C., Gallo, L., **Bachmann, J.**, Battiston, F. & Karimi, F. Gender disparities in the dissemination and acquisition of scientific knowledge. [arXiv:2407.17441](https://doi.org/10.48550/arXiv.2407.17441) (2024).
 - Neuhäuser, L., Karimi, F., **Bachmann, J.**, Strohmaier, M. & Schaub, M. T. Improving the visibility of minorities through network growth interventions. [Nature Communications Physics](doi.org/10.1038/s42005-023-01218-9) 6 (2023).
